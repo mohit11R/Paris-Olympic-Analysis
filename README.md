@@ -37,7 +37,7 @@ Sale-Insight
 
 ## Dashboard
 
-![alt-image](https://github.com/mohit11R/Global-Sales-Analysis/blob/main/Sale%20Analysis/dashboard.png?raw=true)
+![alt-image](Paris_Olympic_Projecct/DashBoard1.png?raw=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
