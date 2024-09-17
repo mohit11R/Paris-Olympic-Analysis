@@ -51,6 +51,15 @@ Paris_Olympic_Project
 
 ## Report Insight
 
+1. Athlete Demographics: 11,113 athletes participated, with a nearly equal distribution between male (5,658) and female (5,455) athletes. The age group of 21-30 years saw the highest participation, highlighting a strong presence of athletes in their prime.
+
+2. Medal Distribution: The United States dominated the medal tally, securing the most medals across all categories—gold, silver, and bronze. They are followed by France and China, which indicates strong competitive performance by these nations.
+
+3. Gender Breakdown of Medals: Female athletes secured slightly more gold medals (378) than male athletes (374), demonstrating gender parity in top performances. Similar trends are observed in silver and bronze medal counts.
+
+4. Country-wise Medal Performance: The United States leads in medal achievements, particularly excelling in the number of gold and silver medals. France, China, and Great Britain follow closely in medal rankings, showing global competition dominance by these countries.
+
+5. Geographical Insights: Participation was extensive, with 206 countries and over 11,000 athletes competing. The interactive dashboard provides a geographical breakdown, enabling users to analyze global performance trends.
   
     
     
