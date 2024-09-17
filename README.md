@@ -45,7 +45,7 @@ Paris_Olympic_Project
 ## Dashboard
 
 ![alt-image](Paris_Olympic_Projecct/Overview.png?raw=true)
-![alt-image](Paris_Olympic_Projecct/Atheltes.png?raw=true)
+![alt-image](Paris_Olympic_Projecct/Athletes.png?raw=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
