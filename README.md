@@ -12,7 +12,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Overview
- 
+
+Analyzing Olympic data across athlete demographics, medal distribution, and country performance is challenging due to its complexity. This project solves that by creating interactive Power BI dashboards, allowing users to easily visualize and explore key insights such as age, gender, and medal trends, enabling data-driven decision-making. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,7 +44,8 @@ Paris_Olympic_Project
 
 ## Dashboard
 
-![alt-image](Paris_Olympic_Projecct/DashBoard1.png?raw=true)
+![alt-image](Paris_Olympic_Projecct/Overview.png?raw=true)
+![alt-image](Paris_Olympic_Projecct/Atheltes.png?raw=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
