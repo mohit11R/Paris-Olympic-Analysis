@@ -38,6 +38,8 @@ Paris_Olympic_Project
           ├── Individual sports data files(.csv)
           ├── Combined ( overview ) data files(.csv)
     ├── Data_Scrap.py
+    ├── Overview.png
+    ├── Athletes.png
 ```
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
